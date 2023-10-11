@@ -135,6 +135,10 @@ export default function App() {
         )}
         </LayoutGroup>
       </div>
+      <p className='text-sm text-neutral-400 text-center my-4'>
+        click on avatar to expand, click again to close
+      </p>
+
     </div>
   )
 }
